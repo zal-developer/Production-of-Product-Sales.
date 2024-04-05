@@ -19,14 +19,16 @@ Countplots to view the frequency of each class of categorial features in your da
 Heatmap to view the correlation between features.
 I have selected key visuals of different types that demonstrate a relevant insight into the data
 
-![EDA for Item_Visibility](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/4f60ddc9-6bdc-42a4-adf8-1482ee107b93)
-- The barplot seems to have a big number of items with low visibility percentage whose count is below 200.
-- We are having many outliers from this column. These could be items that are highly given display space or marginalized with low percentages of visibility compared to other items. The items above the median percentage of visibility can bring in more sales compared to those below the median percentage of visibility.
+![Item_Fat_Content](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/4c924c5c-9156-4c62-80b0-c4403620bca0)
 
-![EDA for Outlet_Sales](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/9f14e894-d905-46a4-9fcd-b58ca7cf9c47)
-- There are less item outlet sales that are above the median sales,this shows that they are for the items most sought after.
+- The count plot shows  a higher frequency for items with low fat.
+- This feature can be a predictor of our target because the customers would buy more items with desired fat content depending on their age,health situations and tastes.
 
-- The sales above median are consistently high compared to those below median which keep reducing.
+![Item_MRP](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/4b2a2742-8172-4fd7-868b-363a310270cf)
+
+- This feature is vital for both sellers and consumers in their decision making about the various items in the outlets.
+
+- Most item prices range between 100 to 200. 
 
 ![Barplot for Item_Type](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/2a0216bc-30a0-431d-b3ee-00c03bb40048)
 - Fruits and vegetables, snacks and household items are the leading items in sales while seafoods and breakfast are preferred by less numbers of people.
