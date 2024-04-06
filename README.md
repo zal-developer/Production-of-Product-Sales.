@@ -1,7 +1,7 @@
 ![320211331-8b824608-682e-4591-a318-368fc9817339](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/54be62ac-1a92-4713-b620-269b829a6abc)
 
 # Prediction of Product Sales.
-## This first project will be a sales prediction for food items sold at various stores.
+## This project will be a sales prediction for food items sold at various stores.
 
 Zalwango Diana
 
