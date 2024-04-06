@@ -5,7 +5,8 @@
 
 Zalwango Diana
 
-Many retail outlets usually have a number of items on sale that are suitably prepared for the consumers in those same areas where the outlets are located. These items could range in price, quality, brand and quantity. Thus we can see that sales made rely on the choices that customers make.
+Many retail outlets usually have a number of items on sale that are suitably prepared for the consumers in those same areas where the outlets are located. These items could range in price, quality, brand and quantity. Thus we can see that sales made rely on the choices that customers make. Our goal was to build a robust model that accurately predicts sales based on relevant features.
+
 ## Data Source:
 Prediction of  Product Sales : https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
