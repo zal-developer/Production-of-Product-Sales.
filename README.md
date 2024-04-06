@@ -1,4 +1,4 @@
-![image](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/8b824608-682e-4591-a318-368fc9817339)
+![320211331-8b824608-682e-4591-a318-368fc9817339](https://github.com/zal-developer/Production-of-Product-Sales./assets/119515838/54be62ac-1a92-4713-b620-269b829a6abc)
 
 # Prediction of Product Sales.
 ## This first project will be a sales prediction for food items sold at various stores.
@@ -42,12 +42,16 @@ I have selected key visuals of different types that demonstrate a relevant insig
 ## Relevant Insights from the Data
 
 - Impact of Item Fat Content on Sales:
+  
 We observed that items with low fat content tend to have higher sales. This insight suggests that fat content plays a crucial role in sales performance.
+
 Visualization: A bar chart comparing average sales across regular and low fat content in items is included.
 
 
 - Product Type Influence on Sales:
+  
 Certain product types consistently contribute more to overall sales. For instance, perishable items or high-demand products may have a significant impact.
+
 Visualization: A barplot showing the distribution of sales by product type is included.
 
 Machine Learning Using the Following Models:
