@@ -54,12 +54,12 @@ Certain product types consistently contribute more to overall sales. For instanc
 
 Visualization: A barplot showing the distribution of sales by product type is included.
 
-Machine Learning Using the Following Models:
+## Machine Learning Using the Following Models:
  - Linear Regression Model
  - Random Forest Regressor Model
  - Tuned Random Forest Regressor Model
 
-# Models Evaluated and Results.
+## Models Evaluated and Results.
 - Linear Regression Model(testing set):
   - MAE = 804.622
   - MSE = 1,195,459.654
