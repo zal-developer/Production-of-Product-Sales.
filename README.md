@@ -37,7 +37,7 @@ I have selected key visuals of different types that demonstrate a relevant insig
 - There is moderate positive correlation of 0.57 between Item MRP and the Item Outlet sales,showing that as as prices of items increase, the higher the sales generated.
 - There is a negative correlation between Item visibility and Outlet year of establishment of -0.07 showing that as the visibility of the item decreases,the Year of Establishment of the outlet shows to be earlier. This also shows that older outlets might have lower percentages of visibility of the Items.
 
-Maching Learning Using the Following Models:
+Machine Learning Using the Following Models:
  - Linear Regression Model
  - Random Forest Regressor Model
  - Tuned Random Forest Regressor Model
@@ -55,7 +55,7 @@ Maching Learning Using the Following Models:
    - RMSE = 1,103.046
    - R^2 = 0.559
 
- -Tuned Random Forest Regressor Model (Testing Set):
+ - Tuned Random Forest Regressor Model (Testing Set):
    - MAE = 739.275
    - MSE = 1,130,745.938
    - RMSE = 1,063.365
